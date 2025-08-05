@@ -1,3 +1,5 @@
+<img width="1990" height="1567" alt="Beautiful_still_shot_2" src="https://github.com/user-attachments/assets/4dfc4d96-18bb-4a43-b865-e82f42df6f62" />
+
 # Cloth Simulation
 JGL2 라이브러리를 사용하여 C++로 구현된 3D 천 시뮬레이션 프로그램입니다. 이 시뮬레이션은 천을 입자와 스프링의 집합으로 모델링하며, 평면 및 구와의 상호작용을 지원합니다.
 
